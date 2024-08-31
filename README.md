@@ -20,7 +20,7 @@ Expected to work on all iOS versions supported by opa334's [TrollStore](https://
 Number of mods will increase as I discover more. Have a request or a problem? Create an issue and we'll discuss it over a cup of tea :3
 
 | Mod Name |  For | Mod Version | Source  |
-| ------------ | ------------ | ------------ |
+| ------------ | ------------ | ------------ | ------------ |
 |  Facebook Wolf | Facebook v479.0  |  2.1 |  [CyPwn Repo](https://ipa.cypwn.xyz/ "CyPwn Repo") |
 | uYouPlus  | YouTube v19.34.2  | 3.0.4 |  [uYouPlus](https://github.com/qnblackcat/uYouPlus "uYouPlus") |
 |  BHTikTok Plus |  TikTok v35.6.0 | 2.3 | [BandarHL](https://github.com/BandarHL/BHTikTok "BandarHL")  |
