@@ -21,9 +21,12 @@ Number of mods will increase as I discover more. Have a request or a problem? Cr
 
 | Mod Name |  For | Mod Version | Source  |
 | ------------ | ------------ | ------------ | ------------ |
+|  Autoclicker |  Any App | N/A | [CyPwn Repo](https://ipa.cypwn.xyz/ "CyPwn Repo") |
 |  Facebook Wolf | Facebook v479.0  |  2.1 |  [CyPwn Repo](https://ipa.cypwn.xyz/ "CyPwn Repo") |
-| uYouPlus  | YouTube v19.34.2  | 3.0.4 |  [uYouPlus](https://github.com/qnblackcat/uYouPlus "uYouPlus") |
 |  BHTikTok Plus |  TikTok v35.6.0 | 2.3 | [BandarHL](https://github.com/BandarHL/BHTikTok "BandarHL")  |
 |  BHX |  Twitter / X | 10.56 | [BandarHL](https://github.com/BandarHL/BHTikTok "BandarHL")  |
 |  Regram |  Instagram v345.3.3 | 1.0b10 | [CyPwn Repo](https://ipa.cypwn.xyz/ "CyPwn Repo") |
+|  Skip Ads |  Any App | N/A | [CyPwn Repo](https://ipa.cypwn.xyz/ "CyPwn Repo") |
+|  uYouPlus  | YouTube v19.34.2  | 3.0.4 |  [uYouPlus](https://github.com/qnblackcat/uYouPlus "uYouPlus") |
+
 
